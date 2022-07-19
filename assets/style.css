@@ -1,0 +1,9 @@
+/* Cosmiku's main CSS */
+
+body {
+    background-color: rgb(31, 31, 31);
+}
+
+p, pre {
+    color: white;
+}
