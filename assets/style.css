@@ -5,5 +5,28 @@ body {
 }
 
 p, pre {
+    font-family: 'FantasqueSansMonoRegular';
+    font-weight: normal;
+    font-style: normal;
     color: white;
+    float: left;
+}
+
+a {
+    font-family: 'FantasqueSansMonoRegular';
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(148, 102, 255);
+}
+
+#main {
+    margin-top: 5rem;
+    margin-left: 5rem;
+    float: left;
+}
+
+.whis {
+    opacity: 50%;
+    font-style: italic;
+    user-select: none;
 }
