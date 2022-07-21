@@ -4,25 +4,41 @@ body {
     background-color: rgb(31, 31, 31);
 }
 
-p, pre {
+p, pre, li {
     font-family: 'FantasqueSansMonoRegular';
     font-weight: normal;
     font-style: normal;
     color: white;
-    float: left;
 }
 
-a {
+a, a:visited {
     font-family: 'FantasqueSansMonoRegular';
     font-weight: normal;
     font-style: normal;
     color: rgb(148, 102, 255);
+    text-decoration: none;
 }
 
 #main {
     margin-top: 5rem;
     margin-left: 5rem;
     float: left;
+}
+
+#footer {
+    height: 5rem;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footertext{
+    flex: 0 0 120px;
+    text-align: center;
 }
 
 .whis {
