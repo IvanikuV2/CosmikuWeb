@@ -1,42 +1,5 @@
-# Nuxt 3 Minimal Starter
+# Cosmiku Nuxt branch
 
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+I did an oopsie woopsie and accidentally pushed the WIP Nuxt update to Main, so I guess the WIP Nuxt branch is the main branch now :P
 
-## Setup
-
-Make sure to install the dependencies:
-
-```bash
-# yarn
-yarn install
-
-# npm
-npm install
-
-# pnpm
-pnpm install --shamefully-hoist
-```
-
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
-npm run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
+I'm slowly transitioning every HTML to Vue, when I'm done it will replace the main website of [Cosmiku](https://cosmiku.net)
