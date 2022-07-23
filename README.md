@@ -1,5 +1,42 @@
-# CosmikuWeb
+# Nuxt 3 Minimal Starter
 
-This is the website for [Cosmiku](https://cosmiku.net). Licensed under GPLv3, for now it's a really light and simple raw HTML frontend under Nginx. Soon it will work under an actual framework, feel free to contribute!
+Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
-**One day later update: Work is being done to transition this to Nuxt, [check the new nuxt branch](https://github.com/IvanikuV2/CosmikuWeb/tree/nuxt)**
+## Setup
+
+Make sure to install the dependencies:
+
+```bash
+# yarn
+yarn install
+
+# npm
+npm install
+
+# pnpm
+pnpm install --shamefully-hoist
+```
+
+## Development Server
+
+Start the development server on http://localhost:3000
+
+```bash
+npm run dev
+```
+
+## Production
+
+Build the application for production:
+
+```bash
+npm run build
+```
+
+Locally preview production build:
+
+```bash
+npm run preview
+```
+
+Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
