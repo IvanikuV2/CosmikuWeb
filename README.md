@@ -1,3 +1,3 @@
-# CosmikuWeb
+# CosmikuWeb Nuxt branch
 
-This is the website for [Cosmiku](https://cosmiku.net). Licensed under GPLv3, for now it's a really light and simple raw HTML frontend under Nginx. Soon it will work under an actual framework, feel free to contribute!
+This is the branch of cosmiku where a Nuxt rebase is being done, it's supposed to keep most of the code from the original html files but it's also gonna take profit of Nuxt's amazing features
